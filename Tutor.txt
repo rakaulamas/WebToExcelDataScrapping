@@ -1,0 +1,4 @@
+Scrap data web ke excel: 
+1. Buka excel -> covid19.xls
+2. Copy table di browser ke variable
+3. write variable tersebut ke dalam format table excel
